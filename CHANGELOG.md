@@ -10,6 +10,7 @@
 - Add method `Browser::Base#unknown?`
 - Fix issue with `Browser::Base#safari?` matching full version
 - Add FullStory to the bot list.
+- Add Charlotte to the bot list.
 
 ## 4.2.0
 
